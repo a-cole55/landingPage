@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import Text from './components/Text'
+import vid from './assets/pexels-cottonbro.mp4'
 
-function App() {
+
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='Video'>
+      <video width="600" autoPlay muted loop>
+      <source src={vid} type="video/mp4" />
+        </video>
+      </div>
+      <Text />
     </div>
   );
 }
-
-export default App;
