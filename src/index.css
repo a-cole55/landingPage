@@ -60,6 +60,7 @@ button{
   /* opacity:.98; */
 }
 button:hover{
-  background-color: #D0D3D8;
+  background-color: #000000;
   color: white;
+  opacity:.85;
 }
