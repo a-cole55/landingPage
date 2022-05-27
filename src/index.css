@@ -40,7 +40,7 @@ p{
   font-weight: bold;
   font-size:1.4rem;
   opacity:.9;
-  letter-spacing: 0.03em;
+  /* letter-spacing: 0.03em; */
   /* text-align: center; */
 }
 button{
