@@ -1,3 +1,33 @@
+
+Coming Soon Landing Page Project
+
+I'm currently learning and playing around with React. This is a sample landing page for a site that is "Coming Soon".
+
+Link to project: [https://female-rappers.herokuapp.com/api/bia (artist name can be changed)](https://openingsoon-landing.netlify.app/)
+
+![landingPage-compressed](https://user-images.githubusercontent.com/94746691/172072198-254ffc1c-aadc-497d-89b0-ceca4d24f959.jpg)
+
+How It's Made:
+Tech used: React.js
+
+I'm still playing around with the functionality of React.js and the many things it can do. For this project, I was focused on animations. 
+
+Optimizations
+N/A
+
+Lessons Learned:
+There's still a lot to learn with React but I'm excited to see the many projects that I will be able to create. I really like that this framework allows me to drastically reduce my code. It also makes adding animations much easier than using only CSS.
+
+Links:
+
+Portfolio: https://acolee.netlify.app/
+
+Twitter: https://twitter.com/ACole893
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
